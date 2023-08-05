@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @parisaghobadi
+- 👋 Hey, I’m Parisa
 - 👀 I’m interested in Programming, Artificial Intelligence and Mathematics!
 - 🌱 I’m currently learning Python programming
 
