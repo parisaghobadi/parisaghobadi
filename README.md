@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Parisa
-- 👀 I’m interested in Programming, Artificial Intelligence and Mathematics!
+- 👀 I’m interested in Image Processing, Machine Learning, Deep Learning, CNN, and Mathematics!
 - 🌱 I’m currently learning Python programming
 
 <!---
